@@ -1,0 +1,150 @@
+title: Ryan Blog 
+subtitle: Ryan Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Developers
+
+url: "https://94juho.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+urls:
+    - text: Blog
+      url: /blog
+    - text: About Me
+      url: /about#/
+    - text: Contact Me
+      url : /contact#/
+    
+
+# Edit these details 
+
+author_logo: profile.png
+author: Ryan Jung
+author_bio: Hi, My Name is Ryan. I love to Code and Research.  
+author_email: "jjs1005k@ut.ac.kr"
+author_location: Chungju, Republic of Korea
+author_website_url: "https://94juho.github.io"
+
+author_work_experiences: 
+            - company_name: Google
+              company_logo: google.png
+              company_url: https://google.com
+              designation: Software Engineer
+              description: Worked on various Google Products
+              visibility: false
+            - company_name: Microsoft
+              company_logo: microsoft.png
+              company_url: https://microsoft.com
+              designation: Azure Developer
+              description: Worked on various Azure Cloud Products
+              visibility: false
+
+author_education_details:
+              - college_logo: knut.png
+                college_name: Korea National University of Transportation
+                college_url: https://www.ut.ac.kr
+                college_degree: undergraduate graduation, Current Master 
+                description: Department of Software
+                visibility: true
+
+author_project_details:
+              - project_thumbnail: gamershub.png
+                project_title: Gamers Hub
+                project_description: A Platform built for Gamers and Game Devs
+                project_url: https://gamershub.in
+                visibility: false
+              - project_thumbnail: programmingebooks.png
+                project_title: Programming Ebooks
+                project_description: A Platform to easily find and read programming books
+                project_url: https://programmingebooks.com
+                visibility: false
+
+# social links
+github_username: 94JuHo
+linkedin_username: ryanjung
+medium_username: ryanjung
+telegram_username: ryanjung
+
+#for comments using disqus
+disqus_shortname: Ryan Jung 
+
+# wakatime username (coding activity)
+wakatime_username: ryanjung
+
+# formspree (contact form)
+formspree_email: jjs1005k@ut.ac.kr
+
+# syntax highlighter
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# google analytics
+google_analytics: UA-147525291-1
+
+# Choose what to show ( can be true or false)
+show_author_work_experiences: true
+show_author_education_details: true
+show_author_project_details: true
+
+# dont touch this unless required
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-algolia
+# - jekyll-archives
+
+# algolia search 
+algolia:
+  application_id: WQNWYDD9IL
+  index_name: ryanblog # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 20d8f9a51ef78fcf95e6a001f3197ae1
+
+# pagination of posts
+paginate: 8
+per_page: 4
+paginate_path: "/blog/page/:num/"
+
+# minify 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
+
+# Archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+
+
+collections:
+ - products
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
