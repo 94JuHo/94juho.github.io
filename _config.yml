@@ -42,7 +42,13 @@ author_education_details:
               - college_logo: knut.png
                 college_name: Korea National University of Transportation
                 college_url: https://www.ut.ac.kr
-                college_degree: Undergraduate graduation, Current Master's Degree 
+                college_degree: Undergraduate graduation(2013.03~2019.08)
+                description: Department of Software
+                visibility: true
+              - college_logo: knut.png
+                college_name: Korea National University of Transportation
+                college_url: https://www.ut.ac.kr
+                college_degree: Master's Degree(2019.09~Now)
                 description: Department of Software
                 visibility: true
 
