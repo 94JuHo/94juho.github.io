@@ -24,19 +24,49 @@ author_email: "jjs1005k@ut.ac.kr"
 author_location: Chungju, Republic of Korea
 author_website_url: "https://94juho.github.io"
 
-author_work_experiences: 
-            - company_name: 저널이름
-              company_logo: google.png
-              company_url: doi입력
-              designation: 논문제목
-              description: 키워드
-              visibility: false
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: false
+author_work_experiences:
+            - company_name: KSCI (2019.08)
+              company_logo: ksci.jpg
+              company_url: https://doi.org/10.9708/jksci/2019.24.08.095
+              designation: Intelligent Pattern Recognition Algorithms based on Dust, Vision and Activity Sensors for User Unusual Event Detection
+              description: Vision, Activity, Dust, Pattern Recognition, Artificial Intelligence
+              visibility: true 
+            - company_name: APIC-IST(Conference, Poster) (23~26.06.2019)
+              company_logo: jics.png
+              company_url: http://apicist.org/2019/index.html
+              designation: Intelligent Road Traffic Recognition for Precision Maps of Self-driving Cars
+              description: : Self-driving, Cars, Precision Maps, Road Traffic Recognition, Intelligent
+              visibility: true
+            - company_name: KSCI (2019.05)
+              company_logo: ksci.jpg
+              company_url: https://doi.org/10.9708/jksci/2019.24.05.059
+              designation: Intelligent User Pattern Recognition based on Vision, Audio and Activity for Abnormal Event Detections of Single Households
+              description: Vision, Audio, Activity, Pattern Recognition
+              visibility: true
+            - company_name: KSCI (2019.05)
+              company_logo: ksci.jpg
+              company_url: https://doi.org/10.9708/jksci/2019.24.05.067
+              designation: Localization of Mobile Users with the Improved Kalman Filter Algorithm using Smart Traffic Lights in Self-driving Environments
+              description: Self-driving, Localization, RSSI, Smart traffic lights, Kalman filter
+              visibility: true
+            - company_name: KISM(Conference, Oral) (26~27.04.2019)
+              company_logo: ksm.png
+              company_url: http://kism.jams.or.kr
+              designation: 지능형 영상, 음성 패턴 알고리즘 기반 HOME SECURITY 시스템
+              description: : Intelligent, Vision, Audio, home security
+              visibility: true
+            - company_name: JICS (2019.01)
+              company_logo: jics.png
+              company_url: https://doi.org/10.7472/jksii.2019.20.1.77
+              designation: Intelligent Abnormal Event Detection Algorithm for Single Households at Home via Daily Audio and Vision Patterns
+              description: Vision, Image Processing, Audio, Fusion, Pattern, Daily Behavior, Single Households
+              visibility: true
+            - company_name: IJET (2019.01)
+              company_logo: ijet.png
+              company_url: https://dx.doi.org/10.14419/ijet.v8i1.4.25465
+              designation: Unusual Event Detection Algorithm via Personalized Daily Activity and Vision Patterns for Single Households
+              description: Unusual event, Single Household, Activity, Vision, Fusion Algorithm
+              visibility: true
             - company_name: 저널이름
               company_logo: google.png
               company_url: doi입력
