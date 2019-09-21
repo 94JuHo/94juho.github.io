@@ -25,17 +25,23 @@ author_location: Chungju, Republic of Korea
 author_website_url: "https://94juho.github.io"
 
 author_work_experiences: 
-            - company_name: Google
+            - company_name: 저널이름
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+              company_url: doi입력
+              designation: 논문제목
+              description: 키워드
               visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
+              visibility: false
+            - company_name: 저널이름
+              company_logo: google.png
+              company_url: doi입력
+              designation: 논문제목
+              description: 키워드
               visibility: false
 
 author_education_details:
@@ -55,12 +61,12 @@ author_project_details:
               - project_thumbnail: lx.jpg
                 project_title: 자율주행 차량을 위한 정밀디지털지도 자동생성 기반 알고리즘 개발연구(2018.11~2019.11)
                 project_description: Python, Object Detection, Tensorflow, LiDAR, HD Mapping
-                project_url: https://github.com/94JuHo
+                project_url: 
                 visibility: true
               - project_thumbnail: tipa.jpg
                 project_title: 자율주행자 및 횡단보도 사고를 줄이기 위한 차세대 신호등(2018.08~2019.01)
                 project_description: BLE, Beacon, RSSI, Android, Kalman Filter
-                project_url: https://github.com/94JuHo
+                project_url: 
                 visibility: true
               - project_thumbnail: nrf.jpg
                 project_title: 스마트시티 CCTV와 스마트폰이 융합한 위험암시 이상징후 탐지연구(2017.3~2020.02)
