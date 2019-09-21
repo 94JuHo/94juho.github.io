@@ -3,7 +3,7 @@ layout: post
 title: "블로그 첫 포스팅 시작"
 author: Ryan Jung
 date: '2019-07-20 19:25:32'
-categories: tech
+categories: daily
 summary: First Post in My Blog
 thumbnail: hello.jpg
 ---
