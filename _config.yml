@@ -28,43 +28,43 @@ author_work_experiences:
             - company_name: KSCI (2019.08)
               company_logo: ksci.jpg
               company_url: https://doi.org/10.9708/jksci/2019.24.08.095
-              designation: Intelligent Pattern Recognition Algorithms based on Dust, Vision and Activity Sensors for User Unusual Event Detection
+              designation: Intelligent Pattern Recognition Algorithms based on Dust, Vision and Activity Sensors for User Unusual Event Detection(2nd author)
               description: Vision, Activity, Dust, Pattern Recognition, Artificial Intelligence
               visibility: true 
             - company_name: APIC-IST(Conference, Poster) (23~26.06.2019)
               company_logo: jics.png
               company_url: http://apicist.org/2019/index.html
-              designation: Intelligent Road Traffic Recognition for Precision Maps of Self-driving Cars
+              designation: Intelligent Road Traffic Recognition for Precision Maps of Self-driving Cars(1st author)
               description: Self-driving, Cars, Precision Maps, Road Traffic Recognition, Intelligent
               visibility: true
             - company_name: KSCI (2019.05)
               company_logo: ksci.jpg
               company_url: https://doi.org/10.9708/jksci/2019.24.05.059
-              designation: Intelligent User Pattern Recognition based on Vision, Audio and Activity for Abnormal Event Detections of Single Households
+              designation: Intelligent User Pattern Recognition based on Vision, Audio and Activity for Abnormal Event Detections of Single Households(1st author)
               description: Vision, Audio, Activity, Pattern Recognition
               visibility: true
             - company_name: KSCI (2019.05)
               company_logo: ksci.jpg
               company_url: https://doi.org/10.9708/jksci/2019.24.05.067
-              designation: Localization of Mobile Users with the Improved Kalman Filter Algorithm using Smart Traffic Lights in Self-driving Environments
+              designation: Localization of Mobile Users with the Improved Kalman Filter Algorithm using Smart Traffic Lights in Self-driving Environments(1st author)
               description: Self-driving, Localization, RSSI, Smart traffic lights, Kalman filter
               visibility: true
             - company_name: KISM(Conference, Oral) (26~27.04.2019)
               company_logo: ksm.png
               company_url: http://kism.jams.or.kr
-              designation: 지능형 영상, 음성 패턴 알고리즘 기반 HOME SECURITY 시스템
+              designation: 지능형 영상, 음성 패턴 알고리즘 기반 HOME SECURITY 시스템(2nd author)
               description: Intelligent, Vision, Audio, home security
               visibility: true
             - company_name: JICS (2019.01)
               company_logo: jics.png
               company_url: https://doi.org/10.7472/jksii.2019.20.1.77
-              designation: Intelligent Abnormal Event Detection Algorithm for Single Households at Home via Daily Audio and Vision Patterns
+              designation: Intelligent Abnormal Event Detection Algorithm for Single Households at Home via Daily Audio and Vision Patterns(1st author)
               description: Vision, Image Processing, Audio, Fusion, Pattern, Daily Behavior, Single Households
               visibility: true
             - company_name: IJET (2019.01)
               company_logo: ijet.png
               company_url: https://dx.doi.org/10.14419/ijet.v8i1.4.25465
-              designation: Unusual Event Detection Algorithm via Personalized Daily Activity and Vision Patterns for Single Households
+              designation: Unusual Event Detection Algorithm via Personalized Daily Activity and Vision Patterns for Single Households(3rd author)
               description: Unusual event, Single Household, Activity, Vision, Fusion Algorithm
               visibility: true
             - company_name: 저널이름
@@ -77,12 +77,12 @@ author_work_experiences:
 author_education_details:
               - college_logo: knut.png
                 college_name: Korea National University of Transportation
-                college_url: https://www.ut.ac.kr
                 college_degree: Master's Degree(2019.09~Now)
                 description: Department of Software
                 visibility: true
               - college_logo: knut.png
                 college_name: Korea National University of Transportation
+                college_url: https://www.ut.ac.kr
                 college_degree: Undergraduate graduation(2013.03~2019.08)
                 description: Department of Software
                 visibility: true
