@@ -19,7 +19,7 @@ pip freeze > requirements.txt
 ```
 <br>
 해당 코드를 작성하면 프로젝트내에 requriements.txt 파일이 생성된다.<br>
-해당 파일이 생성되면, 다른 pc에서 프로젝트를 이어나가고자 할때
+해당 파일이 생성되면, 다른 pc에서 프로젝트를 이어나가고자 할때<br>
 ```
 pip install -r requirements.txt
 ```
