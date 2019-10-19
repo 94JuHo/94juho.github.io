@@ -5,7 +5,7 @@ author: Ryan Jung
 date: '2019-10-19 19:49:32'
 categories: daily
 summary: i bought a ipad mini5
-thumbnail: ipad.jpg
+thumbnail: ipad.png
 ---
 
 # 아이패드 미니5 구매
