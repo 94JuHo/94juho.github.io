@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "블로그 첫 포스팅 시작"
+title: "아이패드 미니5 구매"
 author: Ryan Jung
 date: '2019-10-19 19:49:32'
 categories: daily
