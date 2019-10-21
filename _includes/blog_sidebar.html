@@ -6,7 +6,9 @@
             <!-- Your Bio -->
             <p> {{ site.author_bio }}</p>
 
-            {%- include github_star_button.html -%}
+            {% if site.github_username %}
+                  {%- include github_follow_button.html -%} 
+            {% endif %}
         </div>
     </div>
     <div class="card">
