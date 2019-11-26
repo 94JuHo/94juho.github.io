@@ -94,7 +94,7 @@ author_project_details:
                 project_url: 
                 visibility: true
               - project_thumbnail: tipa.jpg
-                project_title: 자율주행자 및 횡단보도 사고를 줄이기 위한 차세대 신호등(2018.08~2019.01)
+                project_title: 자율주행차 및 횡단보도 사고를 줄이기 위한 차세대 신호등(2018.08~2019.01)
                 project_description: BLE, Beacon, RSSI, Android, Kalman Filter
                 project_url: 
                 visibility: true
