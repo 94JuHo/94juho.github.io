@@ -27,7 +27,7 @@ author_website_url: "https://94juho.github.io"
 author_work_experiences:
             - company_name: KSCI (2019.08)
               company_logo: ksci.jpg
-              company_url: https://doi.org/10.9708/jksci/2019.24.08.095
+              company_url: https://doi.org/10.9708/jksci.2019.24.08.095
               designation: Intelligent Pattern Recognition Algorithms based on Dust, Vision and Activity Sensors for User Unusual Event Detection(2nd author)
               description: Vision, Activity, Dust, Pattern Recognition, Artificial Intelligence
               visibility: true 
@@ -39,13 +39,13 @@ author_work_experiences:
               visibility: true
             - company_name: KSCI (2019.05)
               company_logo: ksci.jpg
-              company_url: https://doi.org/10.9708/jksci/2019.24.05.059
+              company_url: https://doi.org/10.9708/jksci.2019.24.05.059
               designation: Intelligent User Pattern Recognition based on Vision, Audio and Activity for Abnormal Event Detections of Single Households(1st author)
               description: Vision, Audio, Activity, Pattern Recognition
               visibility: true
             - company_name: KSCI (2019.05)
               company_logo: ksci.jpg
-              company_url: https://doi.org/10.9708/jksci/2019.24.05.067
+              company_url: https://doi.org/10.9708/jksci.2019.24.05.067
               designation: Localization of Mobile Users with the Improved Kalman Filter Algorithm using Smart Traffic Lights in Self-driving Environments(1st author)
               description: Self-driving, Localization, RSSI, Smart traffic lights, Kalman filter
               visibility: true
