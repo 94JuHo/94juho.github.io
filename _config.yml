@@ -75,7 +75,7 @@ author_work_experiences:
             - company_name: KISM(Conference, Oral) (26~27.04.2019) *best paper award
               company_logo: ksm.png
               company_url: http://kism.jams.or.kr
-              designation: 지능형 영상, 음성 패턴 알고리즘 기반 HOME SECURITY 시스템(2nd author)
+              designation: Home Security System based on Intelligent Vision, Audio Pattern Algorithms(2nd author)
               description: Intelligent, Vision, Audio, home security
               visibility: true
             - company_name: JICS (2019.01)
