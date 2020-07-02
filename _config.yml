@@ -25,6 +25,12 @@ author_location: Chungju, Republic of Korea
 author_website_url: "https://94juho.github.io"
 
 author_work_experiences:
+            - company_name: MTAP (2020.06) - SCIE
+              company_logo: springer.png
+              company_url: https://doi.org/10.1007/s11042-020-09149-1
+              designation: Real-time unusual user event detection algorithm fusing vision, audio, activity, and dust patterns(1st author)
+              description: Intelligence, Vision, Deel learning, Unusual event, Pattern recognition
+              visibility: true
             - company_name: TIIS (2019.11) - SCIE
               company_logo: tiis.png
               company_url: https://doi.org/10.3837/tiis.2019.11.002
