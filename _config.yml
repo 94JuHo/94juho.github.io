@@ -31,6 +31,12 @@ author_work_experiences:
               designation: Intelligent Abnormal-Event Detection System using Vision, Audio, Dust Sensors(1st author)
               description: Abnormal event, Audio, Dust, Intelligent system, Vision
               visibility: true
+            - company_name: APIC-IST(Conference, Oral) (05~07.07.2020)
+              company_logo: jics.png
+              company_url: http://apicist.org/2020/index.html
+              designation: Intelligent Abnormal-Event Detection System using Vision, Audio, Dust Sensors(1st author)
+              description: Abnormal event, Audio, Dust, Intelligent system, Vision
+              visibility: true
             - company_name: MTAP (2020.06) - SCIE
               company_logo: springer.png
               company_url: https://doi.org/10.1007/s11042-020-09149-1
@@ -78,17 +84,29 @@ author_work_experiences:
               designation: Home Security System based on Intelligent Vision, Audio Pattern Algorithms(2nd author)
               description: Intelligent, Vision, Audio, home security
               visibility: true
+            - company_name: KSII Spring Conference (04.2019)
+              company_logo: jics.png
+              company_url: http://www.ksii.or.kr/
+              designation: Health Care System based on Intelligent vision, audio, activity pattern algorithms(2nd author)
+              description: 
+              visibility: true
             - company_name: JICS (2019.01)
               company_logo: jics.png
               company_url: https://doi.org/10.7472/jksii.2019.20.1.77
               designation: Intelligent Abnormal Event Detection Algorithm for Single Households at Home via Daily Audio and Vision Patterns(1st author)
               description: Vision, Image Processing, Audio, Fusion, Pattern, Daily Behavior, Single Households
               visibility: true
-            - company_name: Conference in Korea(3 times)
+            - company_name: KSII fall Conference (10.2018)
               company_logo: jics.png
               company_url: http://www.ksii.or.kr/
-              designation: 
-              description:
+              designation: Health Care Related Noxious Gas Detection System(2nd author)
+              description: 
+              visibility: true
+            - company_name: KSII Spring Conference (04.2018)
+              company_logo: jics.png
+              company_url: http://www.ksii.or.kr/
+              designation: Unusual Event Detection Algorithm via Personalized Video and Voice Patterns for Preventing Solitary Death(1st author)
+              description: 
               visibility: true
             - company_name: 저널이름
               company_logo: google.png
