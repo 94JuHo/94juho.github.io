@@ -31,12 +31,6 @@ author_work_experiences:
               designation: Intelligent Abnormal-Event Detection System using Vision, Audio, Dust Sensors(1st author)
               description: Abnormal event, Audio, Dust, Intelligent system, Vision
               visibility: true
-            - company_name: APIC-IST(Conference, Oral) (05~07.07.2020)
-              company_logo: jics.png
-              company_url: http://apicist.org/2020/index.html
-              designation: Intelligent Abnormal-Event Detection System using Vision, Audio, Dust Sensors(1st author)
-              description: Abnormal event, Audio, Dust, Intelligent system, Vision
-              visibility: true
             - company_name: MTAP (2020.06) - SCIE
               company_logo: springer.png
               company_url: https://doi.org/10.1007/s11042-020-09149-1
@@ -96,13 +90,13 @@ author_work_experiences:
               designation: Intelligent Abnormal Event Detection Algorithm for Single Households at Home via Daily Audio and Vision Patterns(1st author)
               description: Vision, Image Processing, Audio, Fusion, Pattern, Daily Behavior, Single Households
               visibility: true
-            - company_name: KSII fall Conference (10.2018)
+            - company_name: KSII fall Conference (2018.10)
               company_logo: jics.png
               company_url: http://www.ksii.or.kr/
               designation: Health Care Related Noxious Gas Detection System(2nd author)
               description: 
               visibility: true
-            - company_name: KSII Spring Conference (04.2018)
+            - company_name: KSII Spring Conference (2018.04)
               company_logo: jics.png
               company_url: http://www.ksii.or.kr/
               designation: Unusual Event Detection Algorithm via Personalized Video and Voice Patterns for Preventing Solitary Death(1st author)
