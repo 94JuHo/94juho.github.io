@@ -24,3 +24,7 @@ thumbnail: netflix.png
 
 이 방법을 통해서 넷플릭스는 정상 구동 되었다.  
 다른 해결 방법이 있으면 댓글로 공유해주길 바란다.  
+
+![01_intro_collab_result](https://94juho.github.io/assets/img/fastai_result/01_intro_collab_result.png)
+
+![01_intro_collab_result](https://94juho.github.io/assets/img/fastai_result/01_intro_collab_result.png)
