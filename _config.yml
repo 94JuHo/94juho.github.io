@@ -48,6 +48,7 @@ author_work_experiences:
               company_url: http://www.iconi.org/portal/main.do
               designation: Unusual Indoor Event Detection System using Vision, Audio, and Activity Sensors(1st author)
               description: Activity, Audio, Deep learning, Emergency, Sensors, Vision
+              visibility: true
             - company_name: TIIS (2019.11) - SCIE
               company_logo: tiis.png
               company_url: https://doi.org/10.3837/tiis.2019.11.002
