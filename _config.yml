@@ -130,7 +130,31 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-
+- project_thumbnail: nrf.jpg
+	              project_title: 건물 재난 현장 3D 영상 객체인식 디지털지도 생성을 위한 스마트폰과 융합한 분산된 보급형 로봇 기반 인공지능 알고리즘 및 SW 개발연구(2020.06~2020.12)
+		            project_description: Disaster sites, 3D Object detection, A.I, Digital map, Visual SLAM, Deep Learning, Low-cost robot, Smartphone
+		            project_url: 
+                visibility: true
+        - project_thumbnail: kaia.jpg
+	        project_title: 철도차량 이상상태 자동검지를 위한 스마트 유지보수 장치개발(2020.04~2020.12)
+	        project_description: Railway, Abnormal event, Object detection, OpenCV
+	        project_url: 
+	        visibility: true
+	            - project_thumbnail: lx.jpg
+                project_title: 자율주행 차량을 위한 정밀디지털지도 자동생성 기반 알고리즘 개발연구(2018.11~2019.11)
+                project_description: Python, Object Detection, Tensorflow, LiDAR, HD Mapping
+                project_url: 
+                visibility: true
+              - project_thumbnail: tipa.jpg
+                project_title: 자율주행차 및 횡단보도 사고를 줄이기 위한 차세대 신호등(2018.08~2019.01)
+                project_description: BLE, Beacon, RSSI, Android, Kalman Filter
+                project_url: 
+                visibility: true
+              - project_thumbnail: nrf.jpg
+                project_title: 스마트시티 CCTV와 스마트폰이 융합한 위험암시 이상징후 탐지연구(2017.03~2020.02)
+                project_description: Vision, Activity, Dust, Audio, Pattern Recognition, Object Detection, Unusual Event Detection, Abnormal Event Detection
+                project_url: https://github.com/94JuHo
+                visibility: true
 
 # social links
 github_username: 94JuHo
