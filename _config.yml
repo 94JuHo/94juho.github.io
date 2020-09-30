@@ -130,7 +130,7 @@ author_education_details:
                 visibility: true
 
 author_project_details:
-              - project_thumbnail: nrf.jpg
+	    - project_thumbnail: nrf.jpg
 	      project_title: 건물 재난 현장 3D 영상 객체인식 디지털지도 생성을 위한 스마트폰과 융합한 분산된 보급형 로봇 기반 인공지능 알고리즘 및 SW 개발연구(2020.06~2020.12)
 		project_description: Disaster sites, 3D Object detection, A.I, Digital map, Visual SLAM, Deep Learning, Low-cost robot, Smartphone
 		project_url: 
