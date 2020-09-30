@@ -135,11 +135,6 @@ author_project_details:
 		            project_description: Disaster sites, 3D Object detection, A.I, Digital map, Visual SLAM, Deep Learning, Low-cost robot, Smartphone
 		            project_url: 
                 visibility: true
-	      - project_thumbnail: kaia.jpg
-	        project_title: 철도차량 이상상태 자동검지를 위한 스마트 유지보수 장치개발(2020.04~2020.12)
-	        project_description: Railway, Abnormal event, Object detection, OpenCV
-	        project_url: 
-	        visibility: true
 	            - project_thumbnail: lx.jpg
                 project_title: 자율주행 차량을 위한 정밀디지털지도 자동생성 기반 알고리즘 개발연구(2018.11~2019.11)
                 project_description: Python, Object Detection, Tensorflow, LiDAR, HD Mapping
