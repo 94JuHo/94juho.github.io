@@ -25,6 +25,18 @@ author_location: Chungju, Republic of Korea
 author_website_url: "https://94juho.github.io"
 
 author_work_experiences:
+            - company_name: TIIS (2020.10) - SCIE
+              company_logo: tiis.png
+              company_url: https://doi.org/10.3837/tiis.2020.10.002
+              designation: Intelligent Hybrid Fusion Algorithm with Vision Patterns for Generation of Precise Digital Road Maps in Self-driving Vehicles(1st author)
+              description: Intelligence, vision, deep learning, high precision digital map, self-driving vehicles
+              visibility: true 
+            - company_name: JICS (2020.10)
+              company_logo: jics.png
+              company_url: https://doi.org/10.7472/jksii.2020.21.5.109
+              designation: Deep Learning-Based User Emergency Event Detection Algorithms Fusing Vision, Audio, Activity and Dust Sensors(1st author)
+              description: Vision, audio, activity, dust, sensors, deep learning, abnormal event, patterns
+              visibility: true
             - company_name: JICS (2020.08)
               company_logo: jics.png
               company_url: https://doi.org/10.7472/jksii.2020.21.4.109
