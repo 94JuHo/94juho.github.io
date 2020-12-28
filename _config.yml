@@ -1,5 +1,5 @@
-title: Ryan Jung 
-subtitle: Technical Blog
+title: RYANJUNG
+subtitle: Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Developers
 
@@ -20,11 +20,17 @@ urls:
 author_logo: profile.png
 author: Ryan Jung
 author_bio: This website is Ryan Blog. I am interested in deep learning, computer vision, model compression, knowledge distillation etc. And I am currently a MS degree in dept. of software at the Korea National University of Transportation. If you have any questions, please contact me through the contact me menu or send me an email to my email address.   
-author_email: "jjs1005k@ut.ac.kr"
-author_location: Chungju, Republic of Korea
+author_email: "jjs1005k@gmail.com"
+author_location: Osong, Cheongju-si
 author_website_url: "https://94juho.github.io"
 
 author_work_experiences:
+            - company_name: KSII fall Conference (2020.10) *best paper award
+              company_logo: jics.png
+              company_url: http://www.ksii.or.kr/
+              designation: Intelligent System based on Deep Learning Algorithm for Vision, Activity and Dust Sensors(1st author) 
+              description: 
+              visibility: true
             - company_name: TIIS (2020.10) - SCIE
               company_logo: tiis.png
               company_url: https://doi.org/10.3837/tiis.2020.10.002
@@ -131,7 +137,7 @@ author_work_experiences:
 author_education_details:
               - college_logo: knut.png
                 college_name: Korea National University of Transportation
-                college_degree: Master's Degree(2019.09~Now)
+                college_degree: Master's Degree(2019.09~2021.02)
                 description: Department of Software
                 visibility: true
               - college_logo: knut.png
