@@ -13,6 +13,8 @@ urls:
       url: /about#/
     - text: Contact Me
       url : /contact#/
+    - text: Test
+      url : /test#/
     
 
 # Edit these details
