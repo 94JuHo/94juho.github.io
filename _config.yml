@@ -14,7 +14,7 @@ urls:
     - text: Contact Me
       url : /contact#/
     - text: Test
-      url : /about#/
+      url : /wedding/index#
     
 
 # Edit these details
