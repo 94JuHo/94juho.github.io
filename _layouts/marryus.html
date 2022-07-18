@@ -7,8 +7,7 @@
     <title> 정주호 & 송정은의 결혼식</title>
     <meta content="주호와 정은의 결혼식을 축하해주세요~!" name="description"/>
     <meta property="og:image" content="assets/marry/images/main_test.jpg">
-    <meta property="fb:app_id" content="781066922265598" />
-    <meta property="fb:admins" content="Choi.Anderson"/>
+    <meta property="fb:admins" content="ryan.Jung"/>
     <link href="assets/marry/images/favicon/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
     <link href="assets/marry/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
     <link href="assets/marry/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
@@ -24,23 +23,14 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="https://cdn.emailjs.com/sdk/2.3.2/email.min.js" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/remarkable/1.7.1/remarkable.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="js/ekko-lightbox.min.js"></script>
+    <script src="scripts/main.js"></script>
     <script type="text/javascript">
-        function sendMail() {
-
-            (function () {
-                emailjs.init("user_yjLL5xG0A3kkOCH5BGIDh");
-                emailjs.send("wedding-mail", "gift_send", {
-                    name: $("#sender-name").value,
-                    gift: $("#gift-name").text(),
-                    message: $("#sender-message").value
-                }).then(function (response) {
-                    console.log("SUCCESS. status=%d, text=%s", response.status, response.text);
-                }, function (err) {
-                    console.log("FAILED. error=", err);
-                });
-            })();
-        }
-
         function findGetParameter(parameterName) {
             var result = null,
                 tmp = [];
@@ -59,8 +49,6 @@
 
 <body id="top">
 <header></header>
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v3.2"></script>
 <div class="page-content">
     <div class="div">
         <div class="ww-home-page" id="home">
@@ -262,7 +250,7 @@
                     <div class="col text-center">
                         <h2 class="h1 text-center pb-3 ww-title" style="font-family: 'Noto Serif KR', serif;">축하메시지</h2><br>
                         <div id="lv-container" data-id="city" data-uid="MTAyMC81NjgyMy8zMzI4Nw==">
-                            <script type="text/javascript">
+                        <script type="text/javascript">
                            (function(d, s) {
                                var j, e = d.getElementsByTagName(s)[0];
                         
@@ -274,7 +262,7 @@
                         
                                e.parentNode.insertBefore(j, e);
                            })(document, 'script');
-                            </script>
+                        </script>
                         <noscript> 라이브리 댓글 작성을 위해 JavaScript를 활성화 해주세요</noscript>
                         </div>
                         <br>
@@ -287,13 +275,6 @@
 </div>
 </div>
 <footer></footer>
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="js/aos.js"></script>
-<script src="js/parallax.min.js"></script>
-<script src="js/ekko-lightbox.min.js"></script>
-<script src="scripts/main.js"></script>
 
 <div class="bottom_right"><i class="fa fa-arrow-up fa-2x" id="go-to-top"></i>
 </div>
