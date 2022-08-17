@@ -45,7 +45,16 @@
         }
 
         $(document).ready(function(){
-            document.getElementById('player').play()
+            document.getElementById('player').play();
+
+            $("#map-image").on("click")
+            {}
+
+            $('#go-to-top').click(function () {
+                $('html,body').animate({scrollTop: 0}, 400);
+                return false;
+            });
+
         })
 
     </script>
@@ -280,7 +289,7 @@
 </div>
 <footer></footer>
 
-<div class="bottom_right"><i class="fa fa-arrow-up fa-2x" id="go-to-top"></i>
+<div class="bottom_right"><i class="fa fa-arrow-up fa-2x" id="go-to-top" onClick=""></i>
 </div>
 
 <div class="bottom_left">
