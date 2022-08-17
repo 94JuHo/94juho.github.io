@@ -17,6 +17,7 @@
     <link href="../assets/marry/styles/main.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Gamja+Flower|Gugi|Noto+Serif+KR|Stylish|Sunflower:300"
           rel="stylesheet">
+    <link href="../assets/marry/css/jquery-sakura.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-2.2.1.js"></script>
 
 
@@ -30,6 +31,7 @@
     <script src="../assets/marry/js/parallax.min.js"></script>
     <script src="../assets/marry/js/ekko-lightbox.min.js"></script>
     <script src="../assets/marry/scripts/main.js"></script>
+    <script src="../assets/marry/js/jquery-sakura.js"></script>
     <script type="text/javascript">
         function findGetParameter(parameterName) {
             var result = null,
@@ -42,6 +44,10 @@
                   if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
                 });
             return result;
+        }
+
+        $(document).ready(function () {
+            $('home').sakura();
         }
     </script>
 </head>
@@ -117,7 +123,7 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12">
                         <div class="my-3">
-                            <div class="h4">웨딩 본식</div>
+                            <div class="h4" style="font-family: 'Sunflower', sans-serif; font-size:1.5em">웨딩 본식</div>
                             <ul>
                                 <li>
                                     <i class="text-muted fas fa-map-marker-alt"></i>
@@ -139,7 +145,27 @@
                 <div class="row">
                     <div class="col-md-7 col-sm-12">
                         <div class="my-3">
-                            <div class="h4">식사</div>
+                            <div class="h4" style="font-family: 'Sunflower', sans-serif; font-size:1.5em">식사</div>
+                            <ul>
+                                <li>
+                                    <i class="text-muted fas fa-map-marker-alt "></i>
+                                    <span class="pl-2 text-muted">이천 빌라드 아모르 2층 연회장</span>
+                                </li>
+                                <li class="pt-2">
+                                    <i class="text-muted far fa-calendar-alt "></i>
+                                    <span class="pl-2 text-muted">2022년 10월 15일, 11:00PM - 1:00PM</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-sm-12">
+                        <div class="my-3"><img alt="Reception" class="img-fluid" src="assets/marry/images/reception.jpg"/></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-7 col-sm-12">
+                        <div class="my-3">
+                            <div class="h4">연락처</div>
                             <ul>
                                 <li>
                                     <i class="text-muted fas fa-map-marker-alt "></i>
