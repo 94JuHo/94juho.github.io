@@ -12,6 +12,8 @@ $(document).ready(function () {
     });
 
     document.getElementById('player').play();
+    }
+)
 
 // Smooth scroll for links with hashes
 $("a.smooth-scroll").click(function (event) {
