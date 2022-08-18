@@ -10060,7 +10060,7 @@ body {
     margin: 0px 15px 15px 15px;
 }
 
-table, th, td {
+table {
     width: 100%;
     border: 1px #bcbcbc;
     height: auto;
@@ -10068,13 +10068,16 @@ table, th, td {
 
 .tb_right {
     text-align: right;
+    border: 1px #bcbcbc;
     width: 10%;
 }
 
 .tb_center {
     text-align: center;
+    border: 1px #bcbcbc;
 }
 
 .sb_top {
-    padding-top: 1.5rem !important;
+    border: 1px #bcbcbc;
+    padding-top: 20px;
 }
