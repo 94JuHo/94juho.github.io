@@ -10074,3 +10074,7 @@ table, th, td {
 .tb_center {
     text-align: center;
 }
+
+.sb_top {
+    padding-top: 0.5rem !important;
+}
