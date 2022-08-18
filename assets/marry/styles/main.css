@@ -10063,6 +10063,7 @@ body {
 table, th, td {
     width: 100%;
     border: 1px #bcbcbc;
+    height: auto;
 }
 
 .tb_right {
@@ -10070,3 +10071,6 @@ table, th, td {
     width: 10%;
 }
 
+.tb_center {
+    text-align: center;
+}
