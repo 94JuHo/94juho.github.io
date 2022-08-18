@@ -10060,7 +10060,7 @@ body {
     margin: 0px 15px 15px 15px;
 }
 
-table {
+table, tr {
     width: 100%;
     border: 1px #bcbcbc;
     height: auto;
