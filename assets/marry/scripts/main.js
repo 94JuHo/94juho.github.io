@@ -51,3 +51,21 @@ $("a.smooth-scroll").click(function (event) {
         }
     }
 });
+
+$(function(){
+    $('#onDisplay').click(function(){
+        if($("#offDisplay").css("display") == "none"){
+            $('#showaccount').show();
+            $('#offDisplay').show();
+            $('#onDisplay').hide();
+        }
+    });
+
+    $('#offDisplay').click(function(){
+        if($("#offDisplay").css("display") != "none"){
+            $('#showaccount').hide();
+            $('#offDisplay').hide();
+            $('#onDisplay').show();
+        }
+    });
+})
