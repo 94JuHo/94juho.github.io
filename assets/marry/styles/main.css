@@ -10060,6 +10060,11 @@ table, tr {
     height: auto;
 }
 
+td {
+    border-collapse : collapse;
+    text-align: center;
+}
+
 .tb_right {
     text-align: right;
     border: 1px #bcbcbc;
