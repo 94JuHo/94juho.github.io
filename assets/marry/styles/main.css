@@ -10081,3 +10081,14 @@ table, tr {
     border: 1px #bcbcbc;
     padding-bottom: 120px;
 }
+
+#drawing_canvas {
+    position: absolute;
+    margin: auto;
+    width: auto;
+    height: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
