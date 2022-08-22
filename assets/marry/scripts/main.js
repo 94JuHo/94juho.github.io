@@ -73,4 +73,9 @@ $(function(){
             $('#onDisplay').show();
         }
     });
+
+    $('#nav-item').click(function(){
+            let el = document.getElementById('idbt');
+            el.aria-expanded = "false";
+    });
 })
