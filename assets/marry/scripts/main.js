@@ -10,10 +10,12 @@ $(document).ready(function () {
         $('html,body').animate({scrollTop: 0}, 400);
         return false;
     });
-
-    document.getElementById('player').play();
     }
 )
+
+$(window).load(function() {
+    document.getElementById('player').play();
+})
 
 // Smooth scroll for links with hashes
 $("a.smooth-scroll").click(function (event) {
