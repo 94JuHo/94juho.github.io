@@ -10068,7 +10068,8 @@ table, tr {
 }
 
 .w-btn {
-    position: relative;
+    /*
+    position: relative; */
     border: none;
     display: inline-block;
     padding: 15px 30px;
