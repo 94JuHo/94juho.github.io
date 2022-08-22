@@ -74,7 +74,7 @@ $(function(){
         }
     });
 
-    $('#nav-item').click(function(){
+    $('#navi').click(function(){
             let el = document.getElementById('idbt');
             el.ariaExpanded="false";
     });
