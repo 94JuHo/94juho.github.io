@@ -240,6 +240,7 @@ label {
 
 button {
     border-radius: 0;
+    margin: 20px;
 }
 
 button:focus {
@@ -9756,7 +9757,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/back_img.JPG") no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/back_img.jpg") no-repeat center center;
     background-size: cover;
     background-position: 50%;
     height: 100vh;
@@ -10060,7 +10061,7 @@ body {
     margin: 0px 15px 15px 15px;
 }
 
-table, tr, td {
+table, tr {
     width: 100%;
     border: 1px #bcbcbc;
     height: auto;
