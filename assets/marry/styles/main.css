@@ -217,6 +217,10 @@ svg:not(:root) {
     overflow: hidden;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 caption {
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
@@ -1848,6 +1852,8 @@ pre code {
 
 .table th,
 .table td {
+    padding: 0.75rem;
+    vertical-align: top;
     border-top: 1px solid #dee2e6;
 }
 
@@ -9750,7 +9756,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/back_img.jpg") no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/back_img.JPG") no-repeat center center;
     background-size: cover;
     background-position: 50%;
     height: 100vh;
@@ -10054,21 +10060,10 @@ body {
     margin: 0px 15px 15px 15px;
 }
 
-table, tr {
+table, tr, td {
     width: 100%;
     border: 1px #bcbcbc;
     height: auto;
-}
-
-td {
-    border-collapse : collapse;
-    text-align: center;
-}
-
-.tb_right {
-    text-align: right;
-    border: 1px #bcbcbc;
-    width: 10%;
 }
 
 .tb_center {
@@ -10081,9 +10076,6 @@ td {
     padding-bottom: 120px;
 }
 
-button {
-    margin: 20px;
-}
 
 .w-btn {
     position: relative;
