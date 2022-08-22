@@ -76,6 +76,6 @@ $(function(){
 
     $('#nav-item').click(function(){
             let el = document.getElementById('idbt');
-            el.aria-expanded = "false";
+            el.setAttribute(aria-expanded, "false");
     });
 })
