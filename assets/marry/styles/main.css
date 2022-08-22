@@ -10067,17 +10067,6 @@ table, tr {
     height: auto;
 }
 
-.tb_center {
-    text-align: center;
-    border: 1px #bcbcbc;
-}
-
-.sb_top {
-    border: 1px #bcbcbc;
-    padding-bottom: 120px;
-}
-
-
 .w-btn {
     position: relative;
     border: none;
