@@ -58,25 +58,35 @@ $("a.smooth-scroll").click(function (event) {
 });
 
 $(function(){
-    $('#onDisplay').click(function(){
-        if($("#offDisplay").css("display") == "none"){
-            $('#showaccount').show();
-            $('#offDisplay').show();
-            $('#onDisplay').hide();
+    $('#onDisplay1').click(function(){
+        if($("#offDisplay1").css("display") == "none"){
+            $('#showaccount1').show();
+            $('#offDisplay1').show();
+            $('#onDisplay1').hide();
         }
     });
 
-    $('#offDisplay').click(function(){
-        if($("#offDisplay").css("display") != "none"){
-            $('#showaccount').hide();
-            $('#offDisplay').hide();
-            $('#onDisplay').show();
+    $('#offDisplay1').click(function(){
+        if($("#offDisplay1").css("display") != "none"){
+            $('#showaccount1').hide();
+            $('#offDisplay1').hide();
+            $('#onDisplay1').show();
+        }
+    });
+    $('#onDisplay2').click(function(){
+        if($("#offDisplay2").css("display") == "none"){
+            $('#showaccount2').show();
+            $('#offDisplay2').show();
+            $('#onDisplay2').hide();
         }
     });
 
-    $('#navi').click(function(){
-            let el = document.getElementById('idbt');
-            el.removeAttribute('aria-expanded');
-            el.setAttribute('aria-expaned', "false");
+    $('#offDisplay2').click(function(){
+        if($("#offDisplay2").css("display") != "none"){
+            $('#showaccount2').hide();
+            $('#offDisplay2').hide();
+            $('#onDisplay2').show();
+        }
     });
+
 })
