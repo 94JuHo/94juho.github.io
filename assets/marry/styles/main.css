@@ -67,7 +67,7 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #fff;
+    background-color: #E5CCFF;
 }
 
 
@@ -240,7 +240,6 @@ label {
 
 button {
     border-radius: 0;
-    margin: 20px;
 }
 
 button:focus {
