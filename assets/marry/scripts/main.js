@@ -13,11 +13,11 @@ $(document).ready(function () {
     }
 )
 
-window.onload = function () {
+window.onload = playmusic;
 
-    //document.getElementById('player').play();
-   
-   }
+function playmusic(){
+    document.getElementById('player').play();
+}
 
 
 // Smooth scroll for links with hashes
