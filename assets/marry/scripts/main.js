@@ -13,10 +13,10 @@ $(document).ready(function () {
     }
 )
 
-window.onload = playmusic;
+window.onload = function () {
 
-function playmusic(){
     document.getElementById('player').play();
+   
 }
 
 
