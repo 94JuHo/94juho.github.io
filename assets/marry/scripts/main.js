@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 window.onload = function () {
 
-    document.getElementById('player').play();
+    //document.getElementById('player').play();
    
    }
 
