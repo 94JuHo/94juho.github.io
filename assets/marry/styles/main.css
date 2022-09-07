@@ -50,6 +50,8 @@ html {
     -ms-overflow-style: scrollbar;
     -webkit-tap-highlight-color: transparent;
     touch-action: manipulation;
+    -ms-content-zooming: none;
+    -ms-touch-action: pan-x pan-y;
 }
 
 @-ms-viewport {
